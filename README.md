@@ -6,6 +6,7 @@ spacing needed to be adjusted for every single word to look nice. I might do a s
 
 Inspired by a real world clock using the exact same technique but real lighing behind a black glass pane with letter gaps.
 
-Suggested to @TheCodingTrain as a coding challenge.
+Suggested to @CodingTrain as a coding challenge.
 
-View as website: 
+View as website:
+https://rawgit.com/kleinesfilmroellchen/Wordclock/master/index.html
