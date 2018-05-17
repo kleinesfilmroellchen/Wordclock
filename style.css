@@ -1,0 +1,13 @@
+/*Simple style*/
+
+body {
+   background-color: black;
+   color: white;
+}
+
+#time-control {
+   /*Comment this line if you need manual time control for debugging.*/
+   display: none;
+   position: absolute;
+   bottom: 1px;
+}
