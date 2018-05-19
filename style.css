@@ -9,7 +9,7 @@ body {
 
 #time-control {
    /*Comment this line if you need manual time control for debugging.*/
-   /*display: none;*/
+   display: none;
    position: absolute;
    bottom: 1px;
 }
