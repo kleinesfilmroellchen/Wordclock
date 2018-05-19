@@ -17,9 +17,9 @@ class TextObject {
 	display() {
 		push();
 		textAlign(LEFT, TOP);
-		textSize(64);
-		fill(this.active ? 255 : 10);
-		stroke(this.active ? 255 : 10);
+		textSize(TEXTSIZE);
+		fill(this.active ? 255 : 25);
+		stroke(this.active ? 255 : 25);
 		text(this.t, this.x, this.y);
 		pop();
 	}
